@@ -1,4 +1,4 @@
-// index.js
+#!/usr/bin/env node
 
 const { execSync } = require("child_process");
 const { program } = require("commander");
